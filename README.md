@@ -64,7 +64,7 @@
 
 Actualmente me encuentro preparando mi perfil para la **Etapa Práctica / Contrato de Aprendizaje**. Si deseas conocer más sobre mi desempeño académico o discutir una oportunidad laboral:
 
-- ✉️ **Correo:** `correo-de-carlos@gmail.com`
+- ✉️ **Correo:** `stivenrodriguezcuesta1@gmail.com`
 - 📍 **Residencia:** Girón, Santander — Colombia
 
 ---
