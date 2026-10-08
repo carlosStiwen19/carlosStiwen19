@@ -3,10 +3,6 @@
 # 🚀 Carlos Stiwen Rodríguez Cuesta
 ### *Tecnólogo en Análisis y Desarrollo de Software (ADSO)*
 
-[![SENA](https://img.shields.io/badge/SENA-CIMI-00324D?style=flat-square&logo=sena&logoColor=39A900)](https://www.sena.edu.co/)
-[![Ubicación](https://img.shields.io/badge/Ubicación-Girón%2C%20Santander-red?style=flat-square&logo=googlemaps&logoColor=white)](#)
-[![Contacto](https://img.shields.io/badge/Email-Contacto-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:correo-de-carlos@gmail.com)
-
 ---
 
 > *"Apasionado por construir soluciones lógicas, aprender nuevas herramientas de software y optimizar procesos a través de la programación."*
